@@ -1,0 +1,245 @@
+{
+  "as_of": "2026-09-10",
+  "sources": [
+    {
+      "id": "S01",
+      "publisher": "DOE",
+      "published_date": "2026-05-23",
+      "title_ko": "원전 행정명령 1년 후 정책·지원 현황",
+      "url": "https://www.energy.gov/ne/articles/one-year-after-executive-orders-us-nuclear-energy-renaissance-full-swing",
+      "accessed_date": "2026-09-10",
+      "source_type": "primary",
+      "date_note": "발표일"
+    },
+    {
+      "id": "S02",
+      "publisher": "DOE",
+      "published_date": "2026-01-05",
+      "title_ko": "미국 우라늄 농축 서비스 27억 달러 계약",
+      "url": "https://www.energy.gov/articles/us-department-energy-awards-27-billion-restore-american-uranium-enrichment",
+      "accessed_date": "2026-09-10",
+      "source_type": "primary",
+      "date_note": "발표일 또는 페이지 갱신일"
+    },
+    {
+      "id": "S03",
+      "publisher": "DOE",
+      "published_date": "2026-06-23",
+      "title_ko": "원전 공급망 175억 달러 조건부 대출",
+      "url": "https://www.energy.gov/articles/department-energy-announces-american-nuclear-supply-chain-loans",
+      "accessed_date": "2026-09-10",
+      "source_type": "primary",
+      "date_note": "발표일 또는 페이지 갱신일"
+    },
+    {
+      "id": "S04",
+      "publisher": "Cameco",
+      "published_date": "2025-10-28",
+      "title_ko": "미 정부·브룩필드·카메코 원전 파트너십 조건",
+      "url": "https://www.cameco.com/media/news/cameco-and-brookfield-establish-transformational-partnership-with-united-states",
+      "accessed_date": "2026-09-10",
+      "source_type": "primary",
+      "date_note": "발표일 또는 페이지 갱신일"
+    },
+    {
+      "id": "S05",
+      "publisher": "NRC",
+      "published_date": "2026-03-09",
+      "title_ko": "케머러 건설허가 CPAR-1 발급",
+      "url": "https://www.nrc.gov/node/2156776",
+      "accessed_date": "2026-09-10",
+      "source_type": "primary",
+      "date_note": "발표일 또는 페이지 갱신일"
+    },
+    {
+      "id": "S06",
+      "publisher": "NRC",
+      "published_date": "2026-08-27",
+      "title_ko": "뉴스케일 US460 설계 승인 현황",
+      "url": "https://www.nrc.gov/reactors/new-reactors/advanced/who-were-working-with/applicant-projects/nuscale-us460",
+      "accessed_date": "2026-09-10",
+      "source_type": "primary",
+      "date_note": "발표일 또는 페이지 갱신일"
+    },
+    {
+      "id": "S07",
+      "publisher": "Constellation",
+      "published_date": null,
+      "title_ko": "크레인 재가동 프로젝트 현황",
+      "url": "https://www.constellationenergy.com/about/locations/crane-clean-energy-center.html",
+      "accessed_date": "2026-09-10",
+      "source_type": "primary",
+      "date_note": "고정 발표일 미기록; 열람일과 구분"
+    },
+    {
+      "id": "S08",
+      "publisher": "Constellation",
+      "published_date": "2024-09-20",
+      "title_ko": "마이크로소프트 20년 전력구매 계약",
+      "url": "https://www.constellationenergy.com/news/2024/Constellation-to-Launch-Crane-Clean-Energy-Center-Restoring-Jobs-and-Carbon-Free-Power-to-The-Grid.html",
+      "accessed_date": "2026-09-10",
+      "source_type": "primary",
+      "date_note": "발표일 또는 페이지 갱신일"
+    },
+    {
+      "id": "S09",
+      "publisher": "Holtec",
+      "published_date": "2026-08-30",
+      "title_ko": "팰리세이즈 연료 장전 절차 시작",
+      "url": "https://holtecinternational.com/hh-47-17/",
+      "accessed_date": "2026-09-10",
+      "source_type": "primary",
+      "date_note": "발표일 또는 페이지 갱신일"
+    },
+    {
+      "id": "S10",
+      "publisher": "Meta",
+      "published_date": "2026-01-09",
+      "title_ko": "비스트라·테라파워·오클로 원전 협약",
+      "url": "https://about.fb.com/news/2026/01/meta-nuclear-energy-projects-power-american-ai-leadership/",
+      "accessed_date": "2026-09-10",
+      "source_type": "primary",
+      "date_note": "발표일 또는 페이지 갱신일"
+    },
+    {
+      "id": "S11",
+      "publisher": "Google",
+      "published_date": "2024-10-14",
+      "title_ko": "카이로스 전력구매 협약",
+      "url": "https://blog.google/company-news/outreach-and-initiatives/sustainability/google-kairos-power-nuclear-energy-agreement/",
+      "accessed_date": "2026-09-10",
+      "source_type": "primary",
+      "date_note": "발표일 또는 페이지 갱신일"
+    },
+    {
+      "id": "S12",
+      "publisher": "Amazon",
+      "published_date": null,
+      "title_ko": "아마존 SMR 계획과 X-energy 협력",
+      "url": "https://www.aboutamazon.com/news/sustainability/amazon-smr-nuclear-energy",
+      "accessed_date": "2026-09-10",
+      "source_type": "primary",
+      "date_note": "고정 발표일 미기록; 열람일과 구분"
+    },
+    {
+      "id": "S13",
+      "publisher": "Talen",
+      "published_date": "2025-06-11",
+      "title_ko": "아마존 1,920MW 전력구매 계약",
+      "url": "https://ir.talenenergy.com/news-releases/news-release-details/talen-energy-expands-nuclear-energy-relationship-amazon",
+      "accessed_date": "2026-09-10",
+      "source_type": "primary",
+      "date_note": "발표일 또는 페이지 갱신일"
+    },
+    {
+      "id": "S14",
+      "publisher": "X-energy",
+      "published_date": "2026-08-13",
+      "title_ko": "2026년 2분기 실적 및 상장 완료",
+      "url": "https://investors.x-energy.com/news-releases/news-release-details/x-energy-reports-second-quarter-2026-results",
+      "accessed_date": "2026-09-10",
+      "source_type": "primary",
+      "date_note": "발표일 또는 페이지 갱신일"
+    },
+    {
+      "id": "S15",
+      "publisher": "BWXT",
+      "published_date": "2026-08-03",
+      "title_ko": "2026년 2분기 실적",
+      "url": "https://investors.bwxt.com/news-releases/news-release-details/bwx-technologies-reports-second-quarter-2026-results",
+      "accessed_date": "2026-09-10",
+      "source_type": "primary",
+      "date_note": "발표일 또는 페이지 갱신일"
+    },
+    {
+      "id": "S16",
+      "publisher": "두산에너빌리티",
+      "published_date": "2026-08-14",
+      "title_ko": "테라파워 원자로 핵심 기자재 제작 계약",
+      "url": "https://www.doosanenerbility.com/kr/about/news_board_view?id=21000822&page=1&pageSize=9",
+      "accessed_date": "2026-09-10",
+      "source_type": "primary",
+      "date_note": "발표일 또는 페이지 갱신일"
+    },
+    {
+      "id": "S17",
+      "publisher": "IRS",
+      "published_date": "2026-02-12",
+      "title_ko": "청정전력 세액공제의 금지 외국기관 관련 지침",
+      "url": "https://www.irs.gov/newsroom/treasury-irs-provide-guidance-for-certain-energy-tax-credits-regarding-material-assistance-provided-by-prohibited-foreign-entities-under-the-one-big-beautiful-bill",
+      "accessed_date": "2026-09-10",
+      "source_type": "primary",
+      "date_note": "발표일 또는 페이지 갱신일"
+    },
+    {
+      "id": "S18",
+      "publisher": "IRS",
+      "published_date": "2026",
+      "title_ko": "45U 2026년 물가 조정 공고",
+      "url": "https://www.irs.gov/irb/2026-29_irb",
+      "accessed_date": "2026-09-10",
+      "source_type": "primary",
+      "date_note": "연도 또는 월까지만 기록"
+    },
+    {
+      "id": "S19",
+      "publisher": "IRS",
+      "published_date": "2025",
+      "title_ko": "투자 세액공제 Form 3468 지침",
+      "url": "https://www.irs.gov/instructions/i3468",
+      "accessed_date": "2026-09-10",
+      "source_type": "primary",
+      "date_note": "연도 또는 월까지만 기록"
+    },
+    {
+      "id": "S20",
+      "publisher": "GE Vernova",
+      "published_date": "2025-05-20",
+      "title_ko": "TVA 클린치리버 BWRX-300 건설허가 신청",
+      "url": "https://www.gevernova.com/news/press-releases/tennessee-valley-authority-submits-application-construction-first-bwrx-300-small-modular-reactor-in-us",
+      "accessed_date": "2026-09-10",
+      "source_type": "primary",
+      "date_note": "발표일 또는 페이지 갱신일"
+    },
+    {
+      "id": "S21",
+      "publisher": "현대건설",
+      "published_date": "2025-02-26",
+      "title_ko": "팰리세이즈 SMR-300 초도 사업 참여",
+      "url": "https://www1.hdec.kr/kr/company/press_view.aspx?CompanyPressSeq=479",
+      "accessed_date": "2026-09-10",
+      "source_type": "primary",
+      "date_note": "발표일"
+    },
+    {
+      "id": "S22",
+      "publisher": "Centrus/SEC",
+      "published_date": "2026-08-05",
+      "title_ko": "2026년 2분기 사업 업데이트",
+      "url": "https://www.sec.gov/Archives/edgar/data/1065059/000162828026053433/ex991-10q2026_08x05.htm",
+      "accessed_date": "2026-09-10",
+      "source_type": "primary",
+      "date_note": "발표일 또는 페이지 갱신일"
+    },
+    {
+      "id": "S23",
+      "publisher": "Oklo",
+      "published_date": null,
+      "title_ko": "분기 실적·사업 업데이트 목록",
+      "url": "https://oklo.com/investors/financials/quarterly-results/default.aspx",
+      "accessed_date": "2026-09-10",
+      "source_type": "primary",
+      "date_note": "고정 발표일 미기록; 열람일과 구분"
+    },
+    {
+      "id": "S24",
+      "publisher": "EIA",
+      "published_date": "2026-04",
+      "title_ko": "미국 장기 에너지 전망 2026",
+      "url": "https://www.eia.gov/outlooks/aeo/pdf/AEO_Narrative.pdf",
+      "accessed_date": "2026-09-10",
+      "source_type": "primary",
+      "date_note": "연도 또는 월까지만 기록"
+    }
+  ]
+}

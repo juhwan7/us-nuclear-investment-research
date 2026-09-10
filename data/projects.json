@@ -1,0 +1,180 @@
+{
+  "as_of": "2026-09-10",
+  "scope": "선정한 주요 프로젝트·계약·설계 10개 묶음",
+  "aggregation_warning": "기존·신규·설계·계약·목표가 혼재하므로 용량 합산 금지",
+  "projects": [
+    {
+      "id": "crane",
+      "name": "Crane / Microsoft",
+      "category": "재가동",
+      "capacity_mw": 835,
+      "capacity_basis": "재가동 예정 전기 출력",
+      "evidence_date": "2026-09-10",
+      "evidence_date_kind": "undated_page_access_date",
+      "verified_statement": "회사 현황 페이지: 2027년 목표; 20년 PPA 발표",
+      "evidence_status": "회사 목표; 상업운전 미확인",
+      "target": "2027",
+      "source_ids": [
+        "S07",
+        "S08"
+      ],
+      "next_check": "승인·검사·계통·시험",
+      "accessed_date": "2026-09-10"
+    },
+    {
+      "id": "palisades",
+      "name": "Palisades",
+      "category": "재가동",
+      "capacity_mw": 805,
+      "capacity_basis": "회사 표시 전기 출력",
+      "evidence_date": "2026-08-30",
+      "evidence_date_kind": "dated_source",
+      "verified_statement": "연료 장전 절차 개시 발표",
+      "evidence_status": "회사 발표; 상업운전 미확인",
+      "target": null,
+      "source_ids": [
+        "S09"
+      ],
+      "next_check": "장전 완료·시험·기동",
+      "accessed_date": "2026-09-10"
+    },
+    {
+      "id": "talen-amazon",
+      "name": "Talen / Amazon",
+      "category": "기존 전력 계약",
+      "capacity_mw": 1920,
+      "capacity_basis": "최대 계약 물량; 신규 설비 아님",
+      "evidence_date": "2025-06-11",
+      "evidence_date_kind": "dated_source",
+      "verified_statement": "2042년까지 단계적 공급 PPA 발표",
+      "evidence_status": "계약 발표",
+      "target": "전체 물량 늦어도 2032",
+      "source_ids": [
+        "S13"
+      ],
+      "next_check": "실제 공급 증가·현금 수입",
+      "accessed_date": "2026-09-10"
+    },
+    {
+      "id": "vistra-meta",
+      "name": "Vistra / Meta",
+      "category": "기존 전력·증강",
+      "capacity_mw": null,
+      "capacity_basis": "기존·증강 물량 구분 필요",
+      "evidence_date": "2026-01-09",
+      "evidence_date_kind": "dated_source",
+      "verified_statement": "기존 발전소 유지·증강 지원 협약",
+      "evidence_status": "회사 발표",
+      "target": null,
+      "source_ids": [
+        "S10"
+      ],
+      "next_check": "계약 이행·순증 설비",
+      "accessed_date": "2026-09-10"
+    },
+    {
+      "id": "kemmerer",
+      "name": "TerraPower / Kemmerer",
+      "category": "첨단 원전 건설",
+      "capacity_mw": 345,
+      "capacity_basis": "원자로 전기 출력; 저장시스템 피크 출력과 구분",
+      "evidence_date": "2026-08-14",
+      "evidence_date_kind": "dated_source",
+      "verified_statement": "3월 9일 허가; 8월 두산 기자재 계약",
+      "evidence_status": "규제기관 허가·회사 계약 발표",
+      "target": null,
+      "source_ids": [
+        "S05",
+        "S16"
+      ],
+      "next_check": "공정·운영허가·연료",
+      "accessed_date": "2026-09-10"
+    },
+    {
+      "id": "kairos-google",
+      "name": "Kairos / Google",
+      "category": "첨단 원전 협약",
+      "capacity_mw": 500,
+      "capacity_basis": "협약상 최대 용량; 완공 설비 아님",
+      "evidence_date": "2024-10-14",
+      "evidence_date_kind": "dated_source",
+      "verified_statement": "단계적 배치 협약 발표",
+      "evidence_status": "회사 목표",
+      "target": "첫 배치 2030; 후속 2035까지",
+      "source_ids": [
+        "S11"
+      ],
+      "next_check": "실증·후속 상용 허가·발주",
+      "accessed_date": "2026-09-10"
+    },
+    {
+      "id": "xenergy-amazon",
+      "name": "X-energy / Amazon·Energy Northwest",
+      "category": "SMR 확대 계획",
+      "capacity_mw": null,
+      "capacity_basis": "5GW 초과 목표; 개별 사업 합계의 완료치 아님",
+      "evidence_date": "2026-09-10",
+      "evidence_date_kind": "undated_page_access_date",
+      "verified_statement": "미국 내 2039년 5GW 초과 배치 지향",
+      "evidence_status": "회사 계획",
+      "target": "2039",
+      "source_ids": [
+        "S12"
+      ],
+      "next_check": "부지별 허가·확정 계약·투자결정",
+      "accessed_date": "2026-09-10"
+    },
+    {
+      "id": "clinch-river",
+      "name": "TVA / Clinch River",
+      "category": "BWRX-300",
+      "capacity_mw": null,
+      "capacity_basis": "이번 데이터에서는 수치 미기록",
+      "evidence_date": "2026-05-23",
+      "evidence_date_kind": "dated_source",
+      "verified_statement": "2025년 허가 신청; DOE 2026년 설명은 심사 중",
+      "evidence_status": "허가 신청; 최종 처분 미확인",
+      "target": null,
+      "source_ids": [
+        "S20",
+        "S01"
+      ],
+      "next_check": "최신 NRC 처분·금융 종결",
+      "accessed_date": "2026-09-10"
+    },
+    {
+      "id": "nuscale-us460",
+      "name": "NuScale US460",
+      "category": "원자로 설계",
+      "capacity_mw": 462,
+      "capacity_basis": "6개 모듈 설계 전체 전기 출력; 실제 건설 설비 아님",
+      "evidence_date": "2026-08-27",
+      "evidence_date_kind": "page_updated_date",
+      "verified_statement": "2025년 5월 설계 승인 확인",
+      "evidence_status": "설계 승인",
+      "target": null,
+      "source_ids": [
+        "S06"
+      ],
+      "next_check": "고객 부지·발주·투자결정",
+      "accessed_date": "2026-09-10"
+    },
+    {
+      "id": "oklo-meta",
+      "name": "Oklo / Meta",
+      "category": "첨단 원전 개발",
+      "capacity_mw": null,
+      "capacity_basis": "개별 사업 확정 설비로 집계하지 않음",
+      "evidence_date": "2026-01-09",
+      "evidence_date_kind": "dated_source",
+      "verified_statement": "개발 협약 발표",
+      "evidence_status": "회사 발표",
+      "target": null,
+      "source_ids": [
+        "S10"
+      ],
+      "next_check": "허가·연료·건설 자금",
+      "accessed_date": "2026-09-10"
+    }
+  ]
+}
